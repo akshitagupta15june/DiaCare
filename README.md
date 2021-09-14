@@ -1,5 +1,14 @@
 # DiaCare
 
+
+DiaCare is a novel medical
+device which aims at early
+diagnosis, prognostic
+evaluation and reporting of
+peripheral neuropathy in
+patients suffering from
+diabetes.
+
 <img src="https://github.com/akshitagupta15june/DiaCare/blob/master/Images/appli.jpeg">
 
 
